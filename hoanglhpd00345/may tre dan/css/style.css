@@ -1,0 +1,68 @@
+#body {
+	width: 1024px;
+	border:#FF9900;
+	border-style::3px;
+	background-color:#dee4a6;
+	background-attachment:fixed;
+}
+
+#banner {
+	width: 1024px;
+}
+
+#menu {
+	width: 1024px;
+}
+
+#menu_left {
+	width:210px;
+	float:left;
+	margin-left:5px;
+
+
+}
+
+
+#menu_right {
+	width:250px;
+	float:right;	
+	margin-right:5px;
+}
+#timkiem{
+	width:250px;
+	border-left-color: #006633;
+	border-left-width:2px;
+	border-left-style:solid;	
+}
+
+#footer {
+	width:1024px;
+	clear:both;
+	background-image: url(../images/footer-background-top.png);
+}
+
+#noidung {
+	width:539px;
+	margin-left:220px;
+	margin-right:265px;
+	text-align:left;
+	border-style:groove;
+	border-color:#006633;
+
+}
+#vien{
+	border-style:groove;
+	border-color:#006633;
+	margin-bottom:3px;
+}
+
+.list1 {
+	list-style-image: url(../images/icon.png);
+
+}
+.list2 {
+	list-style-image: url(../images/list.gif);
+}
+.list3 {
+	list-style-image:url(../images/yahoo_messenger_icon.png);
+}
